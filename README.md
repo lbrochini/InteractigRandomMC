@@ -1,4 +1,4 @@
-# InteractigRandomMC
+# InteractingRandomMC
 
 by Brochini L. 
 
